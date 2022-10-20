@@ -1,0 +1,19 @@
+{
+  "name": "johnplaton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnPlaton/JohnPlaton.git"
+  },
+  "author": "adrian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnPlaton/JohnPlaton/issues"
+  },
+  "homepage": "https://github.com/JohnPlaton/JohnPlaton#readme"
+}
